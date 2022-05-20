@@ -39,4 +39,4 @@ The mean absolute percentage error (MAPE) is then calculated against the testing
 
 # Conclusion
 
-In this project, by using the deep learning model developed, MAPE is 0.20% which is lesser than 1%.
+This project manages to achieve MAPE= 020% which is lesser than 1% by using the deep learning model developed
